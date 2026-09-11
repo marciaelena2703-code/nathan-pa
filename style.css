@@ -9,6 +9,7 @@ body {
     /*Configuração principal da página*/
     background: #090d16;
      color: #f8fafc;
+      min-height: 100vh;
 }
 
 
