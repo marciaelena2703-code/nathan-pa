@@ -11,5 +11,15 @@ body {
      color: #f8fafc;
       min-height: 100vh;
 }
+/*cria os efeitos de luz no fundo*/
+body::before, body::after{
+content: '';
+position: absolute;
+width: 300px;
+height: 300px;
+border-radius: 50%;
+filter: blur(100px);
+z-index: 0;
+}
 
 
