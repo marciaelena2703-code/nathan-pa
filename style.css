@@ -21,5 +21,11 @@ border-radius: 50%;
 filter: blur(100px);
 z-index: 0;
 }
+body::before {
+/* Posiciona a luz vermelha */
+background: #dc2626;
+bottom: 20%;
+right: 25%;
+}
 
 
