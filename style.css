@@ -53,4 +53,9 @@ right: 25%;
     border-color: rgba(255, 255, 255, 0.25);
 }
 
+.conteudo {
+    /*define o tamanho e a posição do card*/
+    position: relative;
+}
+
 
