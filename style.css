@@ -91,5 +91,12 @@ right: 25%;
     /*adiciona uma transição suave*/
     transition: 0.3s ease;
 }
+.info-card:hover{
+    /*eleva o cartão quando o mouse passa sobre ele*/
+    transform: translateY(-5px);
+
+    /*altera a cor da borda para vermelho*/
+    border-color: #dc2626;
+}
 
 
