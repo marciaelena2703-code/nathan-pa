@@ -61,5 +61,10 @@ right: 25%;
     max-width: 1000px;
     text-align: center;
 }
+.conteudo h2{
+    /*estiliza o titulo da nova sessao*/
+    font-size: 2rem;
+
+}
 
 
