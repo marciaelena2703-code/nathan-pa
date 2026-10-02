@@ -57,6 +57,7 @@ right: 25%;
     /*define o tamanho e a posição do card*/
     position: relative;
     z-index: 1;
+    width: 100%;
 }
 
 
