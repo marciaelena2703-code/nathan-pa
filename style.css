@@ -56,6 +56,7 @@ right: 25%;
 .conteudo {
     /*define o tamanho e a posição do card*/
     position: relative;
+    z-index: 1;
 }
 
 
