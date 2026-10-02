@@ -68,4 +68,9 @@ right: 25%;
     margin-bottom: 30px;
 }
 
+.informações {
+    /*Organiza os cartões lado a lado*/
+    display: grid;
+}
+
 
